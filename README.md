@@ -18,15 +18,22 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 
 ### Language Accepted :
    C++
+   
    Python
+   
    Java
+   
    Javascritp
+   
   
   
 #### Projects that beginners can do 
   Create a singly linked list
+  
   Create a doubly linked list
+  
   Check wheather a given linked list is circular or not
+  
   Binary Search
   Upper bound Binary Search
   Lower Bound Binary Search
