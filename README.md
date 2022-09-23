@@ -21,6 +21,7 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
    2) Python
    3) Java
    4) Javascritp
+   5) C (on public demand)
    
   
   
@@ -39,3 +40,5 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
   12) Implement all the functions of AVL tree(Adelson-Velskii and Landis).
   13) Impelement min Heap and max Heap.
 
+##### Most important heading 
+  Jinko sirf T-shirts sa matlab ha vo hello world ka code hi submit kar dana 😅
