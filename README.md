@@ -20,7 +20,7 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
    1) C++
    2) Python
    3) Java
-   4) Javascritp
+   4) Javascript
    5) C (on public demand)
    
   
