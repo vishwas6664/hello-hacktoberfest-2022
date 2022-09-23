@@ -17,7 +17,7 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 
 
 ### Language Accepted :
-  -> C++
+  -> C++/n
   -> Python
   -> Java
   -> Javascritp
