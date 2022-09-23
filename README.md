@@ -18,23 +18,22 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 
 ### Language Accepted :
    C++
-   
-  -> Python
-  -> Java
-  -> Javascritp
+   Python
+   Java
+   Javascritp
   
   
 #### Projects that beginners can do 
-  -> Create a singly linked list
-  -> Create a doubly linked list
-  -> Check wheather a given linked list is circular or not
-  -> Binary Search
-  -> Upper bound Binary Search
-  -> Lower Bound Binary Search
-  -> Ternary Search
-  -> Implement all the functions of a stack without using the inbuilt functions.
-  -> Implement all the functions of a queue without using the inbuilt functions.
-  -> Implement all the functions of a Binary Search Tree .
-  -> Implement all the functions of a Red Black Trees.
-  -> Implement all the functions of AVL tree(Adelson-Velskii and Landis).
-  -> Impelement min Heap and max Heap.
+  Create a singly linked list
+  Create a doubly linked list
+  Check wheather a given linked list is circular or not
+  Binary Search
+  Upper bound Binary Search
+  Lower Bound Binary Search
+  Ternary Search
+  Implement all the functions of a stack without using the inbuilt functions.
+  Implement all the functions of a queue without using the inbuilt functions.
+  Implement all the functions of a Binary Search Tree .
+  Implement all the functions of a Red Black Trees.
+  Implement all the functions of AVL tree(Adelson-Velskii and Landis).
+  Impelement min Heap and max Heap.
