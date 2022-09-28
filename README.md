@@ -1,5 +1,4 @@
 ![Screenshot from 2022-09-28 18-09-26](https://user-images.githubusercontent.com/92803361/192780689-5cb25791-d413-480f-8281-9487b7524b93.png)
-<https://user-images.githubusercontent.com/75615789/192692200-a4155b0d-bdc3-4a05-9747-ea7d2d6f665b.png>
 
 A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
