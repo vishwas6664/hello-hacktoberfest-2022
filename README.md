@@ -1,4 +1,4 @@
-# Hacktober Fest 2022<img width="576" alt="logo-dark" src="https://user-images.githubusercontent.com/92803361/191917655-d3842b42-aefd-4699-b203-ab2b5fabf2e9.png">
+![Screenshot from 2022-09-28 18-09-26](https://user-images.githubusercontent.com/92803361/192780689-5cb25791-d413-480f-8281-9487b7524b93.png)
 
 A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
