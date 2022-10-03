@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 void primefactor(int num) {
     printf("Prime factors of the number : ");     
     for (int i = 2; num > 1; i++) {
